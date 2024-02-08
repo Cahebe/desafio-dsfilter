@@ -1,0 +1,19 @@
+.list-card {
+  width: 960px;
+}
+
+.list-container {
+  background-color: var(--bg-color-secondary);
+  padding: 20px;
+  border-radius: 5px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.product-card {
+    border: 1px solid var(--bg-color-primary);
+    border-radius: 5px;
+    height: 50px;
+    padding: 10px;
+}
