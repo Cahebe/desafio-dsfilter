@@ -17,3 +17,14 @@
     height: 50px;
     padding: 10px;
 }
+
+.product-name {
+  font-size: 12px;
+  color: var(--font-color-secondary);
+}
+
+.product-price {
+  font-size: 16px;
+  color: var(--font-color-tertiary);
+  font-weight: 700;
+}
